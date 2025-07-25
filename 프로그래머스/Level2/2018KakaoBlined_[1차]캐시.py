@@ -2,7 +2,7 @@
 2018 KAKAO BLIND RECRUITMENT
 [1차] 캐시
 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/17680
-블로그 링크 :
+블로그 링크 : https://hakssi.tistory.com/4
 """
 
 from collections import deque
