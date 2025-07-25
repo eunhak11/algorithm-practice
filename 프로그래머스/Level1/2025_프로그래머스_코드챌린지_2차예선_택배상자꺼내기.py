@@ -1,3 +1,10 @@
+"""
+2025 프로그래머스 코드챌린지 2차 예선
+택배상자 꺼내기
+문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/389478
+블로그 링크 : https://hakssi.tistory.com/3
+"""
+
 def solution(n, w, num):
     # 목표 상자의 좌표를 구하는 함수
     def get_coordinate(target):
