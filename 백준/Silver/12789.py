@@ -2,7 +2,6 @@
 Silver3
 도키도키 간식드리미
 문제 링크 : https://www.acmicpc.net/problem/12789
-블로그 링크 :
 """
 
 import sys

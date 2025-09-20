@@ -2,7 +2,6 @@
 Silver3
 파도반 수열
 문제 링크 : https://www.acmicpc.net/problem/9461
-블로그 링크 :
 """
 
 import sys

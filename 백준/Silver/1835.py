@@ -2,7 +2,6 @@
 Silver4
 카드
 문제 링크 : https://www.acmicpc.net/problem/1835
-블로그 링크 :
 """
 import sys
 from collections import deque

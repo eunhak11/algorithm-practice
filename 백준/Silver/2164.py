@@ -2,7 +2,6 @@
 Silver4
 카드 2
 문제 링크 : https://www.acmicpc.net/problem/2164
-블로그 링크 :
 """
 
 from collections import deque
